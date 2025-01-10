@@ -1,0 +1,18 @@
+[110, 111, 112, 111, 112, 111, 110, 109, 110, 110, 109, 110, 111, 112, 112, 111, 110, 111, 111, 112, 112, 111, 112, 113, 112, 111, 110, 111, 111, 112]
+Time 2 :FROM BUY: Curse=111. Fix profit +1
+Time 3 :FROM BUY: Curse=112. Fix profit +1
+Time 3 :FROM SELL: Curse=112, Average. Sell 1 lot. Balance 2 for 111
+Time 7 :FROM BUY: Curse=110, Average. Buy 1 lot. Balance 2 for 111
+Time 7 :FROM SELL: Curse=110. Fix profit +2
+Time 8 :FROM SELL: Curse=109. Fix profit +1
+Time 13 :FROM SELL: Curse=111, Average. Sell 1 lot. Balance 2 for 110
+Time 14 :FROM BUY: Curse=112. Fix profit +2
+Time 17 :FROM BUY: Curse=110, Average. Buy 1 lot. Balance 2 for 111
+Time 20 :FROM BUY: Curse=112. Fix profit +2
+Time 24 :FROM BUY: Curse=113. Fix profit +1
+Time 26 :FROM BUY: Curse=111, Average. Buy 1 lot. Balance 2 for 112
+Last price: 112. Profit = 10
+Balance: BUY = 2 for 112, SELL = 2 for 110
+After closing position TOTAL PROFIT = 6
+---------------------------------------------------------------
+
